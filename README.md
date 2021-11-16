@@ -21,9 +21,10 @@
 - HTTP, REST, API, JSON
 - HTML/CSS, Figma
 - Linux, Docker, VirtualBox 
+- Java
 
 ### 💬 Другое
-
+  Здесь скоро будет статья с Хабра!
 
 
 <!--
